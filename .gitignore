@@ -50,3 +50,5 @@ dist/
 
 # Logs
 *.log
+out/
+dsa-java/
